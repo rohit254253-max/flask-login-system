@@ -30,13 +30,14 @@ A secure Flask-based authentication system with user registration, login, logout
 ## Project Screenshots
 
 ### Login Page
-(Add screenshot here)
+<img width="1600" height="1200" alt="login" src="https://github.com/user-attachments/assets/bf14873d-1d9f-4a2e-990f-940c6b3ca777" />
 
 ### Register Page
-(Add screenshot here)
+<img width="1600" height="1200" alt="register" src="https://github.com/user-attachments/assets/0ee991b4-6dcb-475b-858d-784f417ce7ec" />
+
 
 ### Dashboard
-(Add screenshot here)
+<img width="1600" height="1200" alt="dashboard" src="https://github.com/user-attachments/assets/0898fb3a-b860-4841-97d2-c11443c9b92f" />
 
 ---
 
